@@ -3,15 +3,14 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hmjk99" alt="hmjk99" /></a> </p>
 
-<ul align="center">
- <li>👨‍💻 All of my projects are available at **https://moonjookim.netlify.app/**</li> 
+<p align="center">
+👨‍💻 All of my projects are available at **https://moonjookim.netlify.app/**
 
- <li>💬 Ask me about **React, Next.js, JavaScript, and anything related to programming!**</li>
+💬 Ask me about **React, Next.js, JavaScript, and anything related to programming!**
+📫 How to reach me **hmjk99@gmail.com**
 
- <li>📫 How to reach me **hmjk99@gmail.com**</li>
-
- <li>⚡ Fun fact **Animal-lover 🐥**</li>
-</ul>
+⚡ Fun fact **Animal-lover 🐥**
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
