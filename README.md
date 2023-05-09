@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moonjoo!</h1>
 <h3 align="center">A software developer passionate about creating innovative solutions that simplify complex tasks and help people stay healthy and active.</h3>
 
-- 👨‍💻 All of my projects are available at **https://moonjookim.netlify.app/**
+- 👨‍💻 All of my projects are available at **https://moonjookim.vercel.app/**
 
 - 💬 Ask me about **React, Next.js, JavaScript, and anything related to programming!**
 
